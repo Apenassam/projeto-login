@@ -38,7 +38,7 @@ section#login {
 section#login > div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/pexels-lauraoliveira-18395017.jpg) no-repeat;
-    background-position: top center;
+    background-position: left right;
     background-size: cover;
     height: 200px;
 }
