@@ -9,13 +9,13 @@
        
     }
     section#login > div#imagem {
-        float: top left;
-        height: 10%;
-        height: 60%;
+        float: top ;
+        height: 50%;
+        height: 45%;
     }
     section#login > div#formulario{
         float: top;
-        width: 75%;
+        width: 60%;
     }
     
 }
@@ -24,7 +24,7 @@
         background-image: linear-gradient(to top,#49a09d, #5f2c82);
     }
     section#login {
-        width: 950px;
+        width: 800px;
         
     }
     section#login > div#imagem {
